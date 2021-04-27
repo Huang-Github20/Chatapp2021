@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "521475229297",
+    "project_id": "chatalllimitted-4d568",
+    "storage_bucket": "chatalllimitted-4d568.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:521475229297:android:feb304ca6b3f4278493dd0",
+        "android_client_info": {
+          "package_name": "com.example.chatalllimitted"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "521475229297-62odb5fjq77ttoivhgkgqup1odbhja41.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chatalllimitted",
+            "certificate_hash": "d25c0fb5362ea14265636de50744150fa940959b"
+          }
+        },
+        {
+          "client_id": "521475229297-5ho2b49qr8ngo8c86evisq09f0cs4m7d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAm-I18tsVi9WAdk4BQOoGxD2tupgjXygM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "521475229297-5ho2b49qr8ngo8c86evisq09f0cs4m7d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
